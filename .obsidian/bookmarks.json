@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1765768991263,
+      "path": "4.views/sprint board.base"
+    },
+    {
+      "type": "file",
+      "ctime": 1765925612114,
+      "path": "4.views/sprint tasks.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1765976689032,
+      "path": "4.tasks/sprint task.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1765976697802,
+      "path": "4.tasks/backlog task.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1766502389698,
+      "path": "2.external/What every programmer should know about memory.md"
+    }
+  ]
+}

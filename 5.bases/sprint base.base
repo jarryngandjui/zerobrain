@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Active
+    filters:
+      and:
+        - '!file.tags.contains("template")'
+        - kind.contains("sprint")
+        - complete == false
+        - '!status.contains("🔲 backlog")'
+    image: note.cover

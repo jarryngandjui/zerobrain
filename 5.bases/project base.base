@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Project
+    filters:
+      and:
+        - '!file.tags.contains("template")'
+        - kind.contains("project")
+        - complete == false
+    image: note.cover

@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "8e3510ae354d4ffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a0d17a60ca5bf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97eab43d9b9a4c07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.tasks/sprint task.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "sprint task"
+            }
+          },
+          {
+            "id": "447817ef5abd42df",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "5.bases/sprint base.base",
+                "viewName": "Active"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "sprint base"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee2c9689e45f01d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6c78cebfa686e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f5768b9737995e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5759440c9520ee8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Lenovo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c60ed6f345509f8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "6dcdd9302ddcf0dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c608f40dad24db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1f946db6cd1f43c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Zettelkasten/🧮 Programmer/🏃🏿‍♂️ Closarity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🏃🏿‍♂️ Closarity"
+            }
+          },
+          {
+            "id": "31f2a67bd595f543",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Zettelkasten/🧮 Programmer/🏃🏿‍♂️ Closarity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🏃🏿‍♂️ Closarity"
+            }
+          },
+          {
+            "id": "bbc7163a5e0485ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c04f2d82ea6ff062",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4.tasks/sprint task.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sprint task"
+            }
+          },
+          {
+            "id": "6221d6392fa82b78",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "quickadd:QuickAdd": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "97eab43d9b9a4c07",
+  "lastOpenFiles": [
+    "5.bases/sprint base.base",
+    "7.zettelkasten/archive/story/2026/Research Spike - Vandale Homelab Configuration v0.1.md",
+    "7.zettelkasten/vandale/Vandale RFC v0.1.md",
+    "7.zettelkasten/workout/2026-02-23 Workout Log.md",
+    "7.zettelkasten/workout/2026-02-16 Workout Log.md",
+    "7.zettelkasten/vandale/Maestro Node Setup.md",
+    "4.tasks/sprint task.md",
+    "7.zettelkasten/sprint/2026-02-23 Big 7 Check-in.md",
+    "7.zettelkasten/sprint/2026-02-16 Big 7 Check-in.md",
+    "7.zettelkasten/vandale/Vandale Network.excalidraw.md",
+    "7.zettelkasten/project/FY2026.md",
+    "7.zettelkasten/project/Faith.md",
+    "man",
+    "6.templates/template.note.big7.md",
+    "7.zettelkasten/content/Dock for usb-c setup.md",
+    "7.zettelkasten/epic/Brand.md",
+    "7.zettelkasten/project/Brand.md",
+    "7.zettelkasten/project/Engineer.md",
+    "7.zettelkasten/project",
+    "6.templates/template.note.content.md",
+    "5.bases/retro base.base",
+    "7.zettelkasten/archive/project/2026/2026 Finance Outlook.md",
+    "7.zettelkasten/sprint/2026-02-09 Big 7 Check-in.md",
+    "7.zettelkasten/insight/IC Pitch.md",
+    "7.zettelkasten/insight/IC Services.md",
+    "7.zettelkasten/content/Untitled.md",
+    "7.zettelkasten/insight/IC Consulting.md",
+    "7.zettelkasten/people/Untitled.md",
+    "7.zettelkasten/archive/project/2026/Foundation.md",
+    "5.bases/story base.base",
+    "5.bases/project base.base",
+    "7.zettelkasten/insight",
+    "7.zettelkasten/archive/workout/2026",
+    "7.zettelkasten/archive/sprint/2026/01",
+    "7.zettelkasten/archive/sprint/2026",
+    "8.files/Lenovo ThinkCentre M90q.jpg",
+    "8.files/Screenshot 2026-01-22 at 21.53.05.png",
+    "8.files/patterns for arguing.png",
+    "8.files/GRE Exam Quantitative Factions.png",
+    "7.files/GRE Exam Quantitative.png",
+    "7.files/GRE.png",
+    "7.files/Screenshot 2026-01-22 at 20.14.58.png",
+    "8.files/GRE Testing Strategies.png",
+    "7.files/Screenshot 2026-01-20 at 20.12.56.png",
+    "8.files/Screenshot 2026-01-20 at 20.35.49.png",
+    "4.views/task board.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

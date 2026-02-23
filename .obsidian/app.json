@@ -1,0 +1,33 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1.quick_notes",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "8.files",
+  "readableLineLength": true,
+  "vimMode": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:fold-all",
+    "obsidian-tasks-plugin:edit-task",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-blockquote",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:insert-link",
+    "editor:configure-toolbar"
+  ],
+  "promptDelete": false
+}

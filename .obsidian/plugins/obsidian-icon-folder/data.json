@@ -1,0 +1,86 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiMapPinCheckInside",
+      "LiBus",
+      "LiServer",
+      "💾",
+      "LiPersonStanding",
+      "LiTable",
+      "LiListTodo",
+      "LiPaperclip",
+      "LiCalendarRange",
+      "LiDumbbell"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "7.zettelkasten/archive": {
+    "iconName": "LiTrash2",
+    "iconColor": "#317fd3"
+  },
+  "7.zettelkasten/sprint": {
+    "iconName": "LiCalendarRange",
+    "iconColor": "#d0ca16"
+  },
+  "7.zettelkasten/story": {
+    "iconName": "LiPaperclip",
+    "iconColor": "#d0ca16"
+  },
+  "7.zettelkasten/people": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#f3f2f2"
+  },
+  "5.bases/sprint base.base": {
+    "iconName": "LiPaperclip",
+    "iconColor": "#dd7927"
+  },
+  "5.bases/retro base.base": {
+    "iconName": "LiPaperclip",
+    "iconColor": "#dd7927"
+  },
+  "5.bases/project base.base": {
+    "iconName": "LiPaperclip",
+    "iconColor": "#dd7927"
+  },
+  "5.bases/story base.base": {
+    "iconName": "LiPaperclip",
+    "iconColor": "#dd7927"
+  },
+  "4.tasks/sprint task.md": {
+    "iconName": "LiListTodo",
+    "iconColor": "#255a93"
+  },
+  "4.tasks/backlog task.md": {
+    "iconName": "LiListTodo",
+    "iconColor": "#255a93"
+  },
+  "7.zettelkasten/project": {
+    "iconName": "LiMapPinCheckInside",
+    "iconColor": "#d0ca16"
+  }
+}

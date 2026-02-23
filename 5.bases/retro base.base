@@ -1,0 +1,51 @@
+views:
+  - type: table
+    name: Big 7 Retro
+    filters:
+      and:
+        - '!file.tags.contains("template")'
+        - kind.contains("sprint")
+        - complete == true
+        - file.tags.contains("big7")
+    order:
+      - file.name
+      - file.tags
+      - rating
+      - completed date
+    sort:
+      - property: completed date
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: rating
+        direction: ASC
+      - property: productivity
+        direction: ASC
+      - property: performance
+        direction: DESC
+    image: note.cover
+  - type: table
+    name: Workout Retro
+    filters:
+      and:
+        - '!file.tags.contains("template")'
+        - kind.contains("sprint")
+        - complete == true
+        - file.tags.contains("workout")
+    order:
+      - file.name
+      - file.tags
+      - rating
+      - completed date
+    sort:
+      - property: completed date
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: rating
+        direction: ASC
+      - property: productivity
+        direction: ASC
+      - property: performance
+        direction: DESC
+    image: note.cover

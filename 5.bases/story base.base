@@ -1,0 +1,44 @@
+views:
+  - type: cards
+    name: Active
+    filters:
+      and:
+        - '!file.tags.contains("template")'
+        - kind.contains("story")
+        - complete == false
+    image: note.cover
+  - type: cards
+    name: Social
+    filters:
+      and:
+        - '!file.tags.contains("template")'
+        - kind.contains("story")
+        - complete == false
+        - category == ["social"]
+    image: note.cover
+  - type: table
+    name: Brand
+    filters:
+      and:
+        - '!file.tags.contains("template")'
+        - kind.contains("story")
+        - category == ["brand"]
+        - file.tags.contains("content")
+    order:
+      - file.name
+      - file.tags
+      - url
+    sort:
+      - property: completed date
+        direction: DESC
+    image: note.cover
+    columnSize: {}
+  - type: list
+    name: External
+    filters:
+      and:
+        - '!file.tags.contains("template")'
+        - kind.contains("story")
+        - complete == false
+        - file.tags.contains("external")
+    image: note.cover
